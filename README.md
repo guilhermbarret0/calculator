@@ -1,3 +1,3 @@
-# This is a simple calculator app
+# This is a simple calculator app aimed for training purpose only
 
 ### Learning C#
